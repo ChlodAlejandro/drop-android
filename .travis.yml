@@ -1,0 +1,10 @@
+language: android
+python:
+  - "3.7"
+addons:
+  apt:
+    update: true
+before_install:
+  - sudo apt-get -y install ffmpeg
+install:
+  - pip install --upgrade youtube-dl

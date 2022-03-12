@@ -1,0 +1,25 @@
+<resources>
+    <!--  Application Strings  -->
+    <string name="app_name">Drop</string>
+
+    <!--  Introduction Screen  -->
+    <string name="introATitle">Drop</string>
+    <string name="introADesc">A free and open-source video downloader. Built to be fast, customizable, and versatile.</string>
+    <string name="introBTitle">i</string>
+    <string name="introBDesc">A free and open-source video downloader. Built to be fast, customizable, and versatile.</string>
+    <string name="introCTitle">Drop</string>
+    <string name="introCDesc">A free and open-source video downloader. Built to be fast, customizable, and versatile.</string>
+
+
+    <!--  Notification Channels  -->
+    <string name="notificationChannelName_updates">App Updates</string>
+    <string name="notificationChannelName_ongoing">Ongoing Downloads</string>
+    <string name="notificationChannelName_completed">Completed Downloads</string>
+    <string name="notificationChannelName_failed">Failed Downloads</string>
+    <string name="notificationChannelName_other">Other</string>
+    <string name="notificationChannelDescription_updates">Notifications regarding app updates.</string>
+    <string name="notificationChannelDescription_ongoing">Notifications showing the progress of ongoing downloads.</string>
+    <string name="notificationChannelDescription_completed">Notifications for completed downloads.</string>
+    <string name="notificationChannelDescription_interrupted">Notifications for failed or interrupted downloads.</string>
+    <string name="notificationChannelDescription_other">Notifications regarding other matters.</string>
+</resources>

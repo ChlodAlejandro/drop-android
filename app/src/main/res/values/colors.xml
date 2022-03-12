@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#039BE5</color>
+    <color name="colorPrimaryDark">#007ac1</color>
+    <color name="colorAccent">#67daff</color>
+
+    <color name="introAPrimary">#67daff</color>
+    <color name="introADark">#427799</color>
+    <color name="introALight">#a8ddff</color>
+
+    <color name="introBPrimary">#039BE5</color>
+    <color name="introBDark">#007ac1</color>
+    <color name="introBLight">#67daff</color>
+
+    <color name="introCPrimary">#007ac1</color>
+    <color name="introCDark">#003f73</color>
+    <color name="introCLight">#66a5d9</color>
+
+    <array name="introDotActiveColors">
+        <item>@color/introALight</item>
+        <item>@color/introBLight</item>
+        <item>@color/introCLight</item>
+    </array>
+
+    <array name="introDotInactiveColors">
+        <item>@color/introADark</item>
+        <item>@color/introBDark</item>
+        <item>@color/introCDark</item>
+    </array>
+
+</resources>
